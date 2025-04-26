@@ -1,0 +1,14 @@
+What is LangChain?
+LangChain is a framework for developing applications powered by language models.
+
+What is FAISS?
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+
+What is Retrieval Augmented Generation (RAG)?
+RAG combines retrieval of relevant documents with language model generation to improve accuracy.
+
+Who created LangChain?
+LangChain was developed by Harrison Chase.
+
+What is the OpenAI API?
+OpenAI API provides access to powerful language models like GPT-4 for various applications.
